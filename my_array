@@ -1,0 +1,2 @@
+my_array = []
+# or we can use my_array = Array.new 
